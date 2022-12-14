@@ -1,5 +1,5 @@
 
-## Eu sou Jose Moura, Analista de sistemas cursando pós em Fullstack.
+## Eu sou Jose Moura, Analista de sistemas  pós graduado em Fullstack.
 <div align="center">
   <a href="https://github.com/elizandromoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elizandromoura&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
